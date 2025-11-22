@@ -1,2 +1,2 @@
-![banner]([http://placebear.com/200/200](https://gameluster.com/wp-content/uploads/2019/09/goose-header.jpg))
+![banner](https://gameluster.com/wp-content/uploads/2019/09/goose-header.jpg)
 
