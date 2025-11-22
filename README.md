@@ -1,1 +1,6 @@
-<img src="[drawing.jpg](https://gameluster.com/wp-content/uploads/2019/09/goose-header.jpg)" alt="drawing" width="200"/>
+![banner]([http://placebear.com/200/200](https://gameluster.com/wp-content/uploads/2019/09/goose-header.jpg))
+
+<style>
+img[alt=drawing] { width: 200px; }
+
+</style>
