@@ -1,4 +1,4 @@
-# Hello there welcome to the about me section.
+# Hello there 👋.
 
 ## Who am I?
 
