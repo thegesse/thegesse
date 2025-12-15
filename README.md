@@ -7,7 +7,7 @@
 
 ## what I like to do.
 
-### I like to mess around with anything related to micro controllers, and coding. Most of my projects will include anything I find funny, or that helps simplify my workflow (template libraries, arduino, esp32, linux ricing, game libraries...). I also love learning new tools, or languages to make my projects more complex and consequently more fun, I have also started learning reverse engineering to be able to understand code more fluidly. In my free time I also do art and painting comissions for table top games/wargames, I have linked my Instagram in case anyone would want to either commission me or offer/ask for tips and critiques.
+### I like to mess around with anything related to micro controllers, and coding. Most of my projects will include anything I find funny, or that helps simplify my workflow (template libraries, arduino, esp32, linux ricing, game libraries...). I also love learning new tools. In my free time I also do art and painting comissions for table top games/wargames, I have linked my Instagram in case anyone would want to either commission me or offer/ask for tips and critiques.
 
 ## Tech stacks
 #### Here are a few tools I am using during my apprenticeship:
