@@ -6,7 +6,16 @@
 
 ## Tech stacks
 #### Here are a few tools I learnt during my apprenticeship:
--Programming languages
-  -![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white),![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white), ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Programming languages
+  - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+- Front end
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Twig](https://img.shields.io/badge/Twig-008080?logo=twig&logoColor=white)
+
+- Back end
+  - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
+
+- Tools
+  -![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![JetBrains IDE](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 
