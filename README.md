@@ -1,9 +1,6 @@
-![banner](https://gameluster.com/wp-content/uploads/2019/09/goose-header.jpg)
+# Hello there welcome to the about me section.
+---
 
-'''css
-<style>
-img[alt=drawing] { height: 200px; }
-
-</style>
-'''
+## who am I?
+### I’m a first-year student at a French computer science school called [Coda](https://www.coda.school/)
 
