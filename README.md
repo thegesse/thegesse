@@ -25,7 +25,7 @@
   - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
 
 - Tools
-  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![JetBrains IDE](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![Fedora Linux](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
+  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![JetBrains IDE](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Fedora Linux](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 
 
 ## Stats
