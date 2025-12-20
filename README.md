@@ -35,7 +35,7 @@
 
 ## Contact me
 
-### here are a few of my contact informations:
+### here are a few ways of contacting me:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/fourfenix)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emquillerierL@gmail.com)
