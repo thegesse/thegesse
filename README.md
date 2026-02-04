@@ -9,9 +9,9 @@
 
 ### I’m a first-year student at a French computer science school called [Coda](https://www.coda.school/). Currently I am working thowards getting my Bachelor's degree in Fullstack developpment, to achieve that goal I work on multiple projects, whether it be school work or personnal projects, you will find it all here. I welcome all help or criticism on any of my repositories, I am always willing to learn new things.
 
-## what I like to do.
+## what I love.
 
-### I like to mess around with anything related to micro controllers, and coding. Most of my projects will include anything I find funny, or that helps simplify my workflow (template libraries, arduino, esp32, linux ricing, game libraries...). I also love learning new tools. In my free time I also do art and painting comissions for table top games/wargames, I have linked my Instagram in case anyone would want to either commission me or offer/ask for tips and critiques.
+### twin
 
 ## Tech stacks
 #### Here are a few tools I am using during my apprenticeship:
