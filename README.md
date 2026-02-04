@@ -11,7 +11,7 @@
 
 ## what I love.
 
-### twin
+### I love the kebab shop down the street, coding and making various projects using tools I am comfortable with, such as java with sprint boot and javascript. But I try not to stay stuck on those, and try to learn new tools. I am also a fan of art in all its mediums whether it is traditional or digital. But most importantly I love twin.
 
 ## Tech stacks
 #### Here are a few tools I am using during my apprenticeship:
