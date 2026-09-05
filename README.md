@@ -7,7 +7,7 @@
 
 ## Who am I?
 
-### I’m a first-year student at a French computer science school called [Coda](https://www.coda.school/). Currently I am working thowards getting my Bachelor's degree in Fullstack developpment, to achieve that goal I work on multiple projects, whether it be school work or personnal projects, you will find it all here. I welcome all help or criticism on any of my repositories, I am always willing to learn new things.
+### I’m a second-year student at a French computer science school called [Coda](https://www.coda.school/). Currently I am working towards getting my Bachelor's degree in Full stack development, to achieve that goal I work on multiple projects, whether it be school work or personal projects, you will find it all here. I welcome all help or criticism on any of my repositories, I am always willing to learn new things.
 
 ## what I love.
 
